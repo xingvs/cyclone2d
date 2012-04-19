@@ -13,7 +13,6 @@ Cyclone2D 智能机版本提供了更为适合智能机的设计功能，引擎�
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*官方网址* http://www.cyclone2d.com
+*QQ交流群* 154940557
+*飓风论坛* http://www.cyclone2d.com/bbs/forum.php?mod=viewthread&tid=452#lastpost
